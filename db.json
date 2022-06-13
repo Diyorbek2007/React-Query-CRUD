@@ -1,0 +1,11 @@
+{
+  "product": [
+    {
+      "id": 1000,
+      "name": "Iphone 13 pro max",
+      "brand": "Apple",
+      "category": "Smartfonlar",
+      "price": 17500000
+    }
+  ]
+}
